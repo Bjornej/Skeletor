@@ -1,0 +1,11 @@
+C:\Users\Paolo\Documents\GitHub\Skeletor\Samples\WebSample\bin\Debug\netcoreapp2.0\WebSample.deps.json
+C:\Users\Paolo\Documents\GitHub\Skeletor\Samples\WebSample\bin\Debug\netcoreapp2.0\WebSample.runtimeconfig.json
+C:\Users\Paolo\Documents\GitHub\Skeletor\Samples\WebSample\bin\Debug\netcoreapp2.0\WebSample.runtimeconfig.dev.json
+C:\Users\Paolo\Documents\GitHub\Skeletor\Samples\WebSample\bin\Debug\netcoreapp2.0\WebSample.dll
+C:\Users\Paolo\Documents\GitHub\Skeletor\Samples\WebSample\bin\Debug\netcoreapp2.0\WebSample.pdb
+C:\Users\Paolo\Documents\GitHub\Skeletor\Samples\WebSample\obj\Debug\netcoreapp2.0\WebSample.csprojResolveAssemblyReference.cache
+C:\Users\Paolo\Documents\GitHub\Skeletor\Samples\WebSample\obj\Debug\netcoreapp2.0\WebSample.csproj.CoreCompileInputs.cache
+C:\Users\Paolo\Documents\GitHub\Skeletor\Samples\WebSample\obj\Debug\netcoreapp2.0\WebSample.AssemblyInfoInputs.cache
+C:\Users\Paolo\Documents\GitHub\Skeletor\Samples\WebSample\obj\Debug\netcoreapp2.0\WebSample.AssemblyInfo.cs
+C:\Users\Paolo\Documents\GitHub\Skeletor\Samples\WebSample\obj\Debug\netcoreapp2.0\WebSample.dll
+C:\Users\Paolo\Documents\GitHub\Skeletor\Samples\WebSample\obj\Debug\netcoreapp2.0\WebSample.pdb

@@ -1,0 +1,10 @@
+C:\Users\Paolo\Documents\GitHub\Skeletor\Source\Skeletor\bin\Debug\netcoreapp2.0\Skeletor.deps.json
+C:\Users\Paolo\Documents\GitHub\Skeletor\Source\Skeletor\bin\Debug\netcoreapp2.0\Skeletor.dll
+C:\Users\Paolo\Documents\GitHub\Skeletor\Source\Skeletor\bin\Debug\netcoreapp2.0\Skeletor.pdb
+C:\Users\Paolo\Documents\GitHub\Skeletor\Source\Skeletor\bin\Debug\netcoreapp2.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Paolo\Documents\GitHub\Skeletor\Source\Skeletor\obj\Debug\netcoreapp2.0\Skeletor.csprojResolveAssemblyReference.cache
+C:\Users\Paolo\Documents\GitHub\Skeletor\Source\Skeletor\obj\Debug\netcoreapp2.0\Skeletor.csproj.CoreCompileInputs.cache
+C:\Users\Paolo\Documents\GitHub\Skeletor\Source\Skeletor\obj\Debug\netcoreapp2.0\Skeletor.AssemblyInfoInputs.cache
+C:\Users\Paolo\Documents\GitHub\Skeletor\Source\Skeletor\obj\Debug\netcoreapp2.0\Skeletor.AssemblyInfo.cs
+C:\Users\Paolo\Documents\GitHub\Skeletor\Source\Skeletor\obj\Debug\netcoreapp2.0\Skeletor.dll
+C:\Users\Paolo\Documents\GitHub\Skeletor\Source\Skeletor\obj\Debug\netcoreapp2.0\Skeletor.pdb

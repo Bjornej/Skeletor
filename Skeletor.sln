@@ -3,9 +3,51 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{61131465-1507-4EFD-B38D-A479453A506E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{835A095D-27BF-4DBA-914E-F17640FB9232}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{BADAF753-D36F-454C-A4C8-C6804F627BAA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Skeletor", "Source\Skeletor\Skeletor.csproj", "{DDFF3CB3-9580-4CCD-A372-819F592816B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSample", "Samples\WebSample\WebSample.csproj", "{5AA703FB-3E2E-43CF-A0E0-67E1DF0E795C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skeletor.AspNet", "Source\Skeletor.AspNet\Skeletor.AspNet.csproj", "{2D538EC4-F9F3-4471-B93E-1C23399B19C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skeletor.Tests.Unit", "Tests\Skeletor.Tests.Unit\Skeletor.Tests.Unit.csproj", "{7A29B389-B49D-400A-AD8F-0D1E8C04121C}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDFF3CB3-9580-4CCD-A372-819F592816B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDFF3CB3-9580-4CCD-A372-819F592816B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDFF3CB3-9580-4CCD-A372-819F592816B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDFF3CB3-9580-4CCD-A372-819F592816B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AA703FB-3E2E-43CF-A0E0-67E1DF0E795C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AA703FB-3E2E-43CF-A0E0-67E1DF0E795C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AA703FB-3E2E-43CF-A0E0-67E1DF0E795C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AA703FB-3E2E-43CF-A0E0-67E1DF0E795C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D538EC4-F9F3-4471-B93E-1C23399B19C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D538EC4-F9F3-4471-B93E-1C23399B19C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D538EC4-F9F3-4471-B93E-1C23399B19C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D538EC4-F9F3-4471-B93E-1C23399B19C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A29B389-B49D-400A-AD8F-0D1E8C04121C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A29B389-B49D-400A-AD8F-0D1E8C04121C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A29B389-B49D-400A-AD8F-0D1E8C04121C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A29B389-B49D-400A-AD8F-0D1E8C04121C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DDFF3CB3-9580-4CCD-A372-819F592816B5} = {61131465-1507-4EFD-B38D-A479453A506E}
+		{5AA703FB-3E2E-43CF-A0E0-67E1DF0E795C} = {BADAF753-D36F-454C-A4C8-C6804F627BAA}
+		{2D538EC4-F9F3-4471-B93E-1C23399B19C6} = {61131465-1507-4EFD-B38D-A479453A506E}
+		{7A29B389-B49D-400A-AD8F-0D1E8C04121C} = {835A095D-27BF-4DBA-914E-F17640FB9232}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {85D7DD78-8FC2-4EEA-BA7B-0220B6680607}
